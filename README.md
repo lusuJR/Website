@@ -1,6 +1,8 @@
 # Website
 
 Full-Function Business Website Project
+![image](https://github.com/user-attachments/assets/d8f1d2e9-b61a-4611-b815-bec33115fa7e)
+
 
 This project involves the development of a comprehensive, feature-rich business website designed to meet the needs of modern enterprises. 
 <br />
