@@ -10,6 +10,6 @@ Key functionalities will include:
 <br />
 Responsive Design: Ensuring the website is optimized for all devices, including desktops, tablets, and smartphones.
 <br />
-Language : HTML, CSS, JavaScript
+Language : HTML, CSS, JavaScript, SCSS
 <br/>
-Note: feel free to use it 
+Note: feel free to use it and improve it to meet your clients requirements
