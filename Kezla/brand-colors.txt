@@ -1,0 +1,4 @@
+KEZLA BRAND:
+Dark Yellow:#ffb100
+Light Yellow:#efc100
+Dark Marron: #6d3802
